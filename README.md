@@ -4,7 +4,7 @@ Welcome to the GameStore API documentation. This comprehensive guide provides in
 
 ## Table of Contents
 
-1. [System Architecture](architecture.md)
+1. [System Architecture](https://github.com/AlienX77-cmd/ASP.NET-Core-9.0-GameStore-API/blob/main/docs/architecture.md)
 
    - Overview
    - High-Level Architecture
