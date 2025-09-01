@@ -4,7 +4,7 @@ Welcome to the GameStore API documentation. This comprehensive guide provides in
 
 ## Table of Contents
 
-1. [System Architecture](https://github.com/AlienX77-cmd/ASP.NET-Core-9.0-GameStore-API/blob/main/docs/architecture.md)
+1. [System Architecture]([architecture.md]https://github.com/AlienX77-cmd/ASP.NET-Core-9.0-GameStore-API/blob/main/docs/architecture.md)
 
    - Overview
    - High-Level Architecture
@@ -13,13 +13,13 @@ Welcome to the GameStore API documentation. This comprehensive guide provides in
    - Data Flow
    - API Endpoints
 
-2. [Project Structure](project-structure.md)
+2. [Project Structure]([project-structure.md](https://github.com/AlienX77-cmd/ASP.NET-Core-9.0-GameStore-API/blob/main/docs/project-structure.md))
 
    - Folder Structure
    - Key Files and Their Purposes
    - Configuration Files
 
-3. [File Details](file-details.md)
+3. [File Details]([file-details.md](https://github.com/AlienX77-cmd/ASP.NET-Core-9.0-GameStore-API/blob/main/docs/file-details.md))
    - Core Files
    - Entity Models
    - DTOs (Data Transfer Objects)
